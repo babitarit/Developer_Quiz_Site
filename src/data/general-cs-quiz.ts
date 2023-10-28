@@ -1847,6 +1847,7 @@ const generalCSQuiz = [
       "Load balancing is a technique used in computing and networking to distribute incoming network traffic or workload across multiple servers, devices, or resources. The primary goal of load balancing is to optimize resource utilization, maximize throughput, minimize response time, and ensure high availability of services.",
     Link: "https://en.wikipedia.org/wiki/Load_balancing_(computing)"
   },
+
   {
     Question: "What does NTFS stand for in the context of Windows file systems?",
     Answer: "New Technology File System",
